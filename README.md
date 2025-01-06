@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** and **Data Scientist** with a strong f
 ## 💻 Skills
 
 ### Programming Languages:
-- **Python** | **JavaScript**
+- **Python** | **JavaScript** | **TypeScript**
 
 ### Frameworks and Tools:
 - **Web Development**: React, Flask, Django, Next.js
