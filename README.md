@@ -30,15 +30,4 @@ I'm a passionate **Full-Stack Developer** and **Data Scientist** with a strong f
 
 ---
 
-## 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/khan-kutbuddin-839a741bb](https://www.linkedin.com/in/khan-kutbuddin-839a741bb/)
-- **Email**: kutbuddinkhan82@gmail.com
-
----
-
-## ⚡ Fun Fact
-I'm an avid cricket enthusiast and love participating in hackathons to solve real-world challenges through innovative coding solutions. When I'm not coding, you'll find me exploring fiction or brushing up on new AI techniques!
-
----
-
 Thanks for visiting my profile! Feel free to explore my repositories and collaborate on exciting projects. 😊
